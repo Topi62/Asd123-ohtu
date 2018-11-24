@@ -53,7 +53,7 @@ public class BookDaoPGTest {
         int id = 3;
         String writer = "HaamuKirjoittaja";
         String title = "Tietokannan salat";
-        String isbn = "123456789";
+        String isbn = "345765123";
         boolean isRead = false;
         today = new Date();
         changedDate = new Date(2000, 10, 1);
